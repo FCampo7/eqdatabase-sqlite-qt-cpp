@@ -7,7 +7,7 @@ Este fue mi primer proyecto por mi cuenta, para practicar y tener un primer cont
 
 This was my first project on my own, to practice and have a first approach with Data Bases, doesn't reflect my current knowledge of this topic, was made when i had study nothing about this subject. (Has no comments in English, sorry)
 
-# Advertisement / Advertencia
+# Advertisement / Anuncio
 
 Any trouble compiling or running the project could be because the ".sqlite" files may be are missing, if found it i'm going to upload it. Please consider that this project has 6 years at this day (12/14/2020)
 
