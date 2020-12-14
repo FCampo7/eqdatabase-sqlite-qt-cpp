@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Logo.png</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>resources/iconos/Add Row-48.ico</file>
+        <file>resources/iconos/Add-New-48.ico</file>
+        <file>resources/iconos/iconmonstr-log-out-9-48.ico</file>
+        <file>resources/iconos/Logout-48.ico</file>
+        <file>resources/iconos/Minus-48.ico</file>
+        <file>resources/iconos/Search-48.ico</file>
+        <file>resources/iconos/User-Modify-48.ico</file>
+        <file>resources/iconos/Login-Arrow-48.ico</file>
+    </qresource>
+</RCC>
